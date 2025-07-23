@@ -23,7 +23,7 @@ The implementation is based on **Chapters 4 & 6** of the provided whitepaper and
 | `Post_Quantum_Key_&_Address_Derivation.ipynb` | Jupyter Notebook with full implementation |
 | `requirements.txt`                        | Python dependencies for easy setup        |
 | `README.md`                               | Project documentation                     |
-| `notebook_screenshot.png`                 | Visual preview of the notebook output     |
+| `EyeEdge_Flowchart.png`                 | Visual preview of the notebook output     |
 
 ---
 
