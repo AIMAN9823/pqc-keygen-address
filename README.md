@@ -2,7 +2,7 @@
 Post-Quantum Key &amp; Address Derivation using Dilithium5, mdECC, Keccak256
 # 🛡️ Post-Quantum Key & Address Derivation
 
-![Notebook Preview](notebook_screenshot.png) <!-- Replace with your actual image file name -->
+![Notebook Preview](EyeEdge_Flowchart.png) <!-- Replace with your actual image file name -->
 
 This repository demonstrates a hybrid **Post-Quantum Cryptography (PQC)** wallet system that combines:
 
